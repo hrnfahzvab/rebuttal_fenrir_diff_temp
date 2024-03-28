@@ -4,7 +4,7 @@
 
 
 w.o. early stopping
-| model | conv | mean_iter +/- std_iter |
+| model | conv | iter |
 |-------|------|-----------------------|
 | PD    | 1.00 | 303.89 +/- 12.43       |
 | LV_2  | 0.77 | 411.18 +/- 151.25      |
@@ -12,7 +12,7 @@ w.o. early stopping
 | HH    | 1.00 | 696.22 +/- 78.10       |
 
 w. early stopping
-| model | conv | mean_iter +/- std_iter |
+| model | conv | iter |
 |-------|------|-----------------------|
 | PD    | 1.00 | 92.21 +/- 0.95         |
 | LV_2  | 0.79 | 132.43 +/- 31.01       |
